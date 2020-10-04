@@ -85,7 +85,7 @@ CHIP Or {
 ### 4.Xor
 
 * picture and explanation
-<img src="picture/Xor.jpg" width="300" height="200" align=center />
+<img src="img/Xor.jpg" width="300" height="200" align=center />
 
 * code
 ```
@@ -115,7 +115,7 @@ CHIP Xor {
 
 ### 5.Mux
 * picture and explanation
-<img src="picture/Mux.jpg" width="300" height="200" align=center/ >
+<img src="img/Mux.jpg" width="300" height="200" align=center/ >
 
 * code 
 ```
@@ -146,7 +146,7 @@ CHIP Mux {
 
 ### 6.DMux
 * picture and explanation
-<img src="picture/DMux.jpg" width="300" height="200" align=center/ >
+<img src="img/DMux.jpg" width="300" height="200" align=center/ >
 
 
 * code
