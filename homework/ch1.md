@@ -53,7 +53,6 @@ CHIP And {
 }
 ```
 ### 3.Or
-* Use the Demorgan Therem to use the two Not to let the Nand to Or
 * picture
 <img src="img/Or.jpg" width="300" height="200" align=center />
 
@@ -84,7 +83,7 @@ CHIP Or {
 
 ### 4.Xor
 
-* picture and explanation
+* picture 
 <img src="img/Xor.jpg" width="300" height="200" align=center />
 
 * code
@@ -114,7 +113,7 @@ CHIP Xor {
 ```
 
 ### 5.Mux
-* picture and explanation
+* picture 
 <img src="img/Mux.jpg" width="300" height="200" align=center/ >
 
 * code 
@@ -145,7 +144,7 @@ CHIP Mux {
 ```
 
 ### 6.DMux
-* picture and explanation
+* picture
 <img src="img/DMux.jpg" width="300" height="200" align=center/ >
 
 
