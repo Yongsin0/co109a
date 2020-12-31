@@ -88,7 +88,7 @@ M=M-1 //計數器-1
 6. JGT: IF OUT>0 ,JUMP
 7. JNE: IF OUT!=0 ,JUMP
 8. JMP: JUMP
-9 .JEQ: IF OUT=0 ,JUMP
+9. JEQ: IF OUT=0 ,JUMP
 ## 操作步驟
 1. 寫mult.asm的code
 2. 使用Assembler.bat進行轉換
